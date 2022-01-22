@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.9d5b8cdf.chunk.css",
+    "main.js": "/portfolio/static/js/main.fccbc9ed.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.fccbc9ed.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.57f4d48f.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.57f4d48f.js.map",
+    "static/js/2.e3f64fcd.chunk.js": "/portfolio/static/js/2.e3f64fcd.chunk.js",
+    "static/js/2.e3f64fcd.chunk.js.map": "/portfolio/static/js/2.e3f64fcd.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.9d5b8cdf.chunk.css.map": "/portfolio/static/css/main.9d5b8cdf.chunk.css.map",
+    "static/js/2.e3f64fcd.chunk.js.LICENSE.txt": "/portfolio/static/js/2.e3f64fcd.chunk.js.LICENSE.txt",
+    "static/media/Health_tracker.512745e4.PNG": "/portfolio/static/media/Health_tracker.512745e4.PNG",
+    "static/media/booklist.0ab75559.PNG": "/portfolio/static/media/booklist.0ab75559.PNG",
+    "static/media/hero-bg.000e1b5f.jpg": "/portfolio/static/media/hero-bg.000e1b5f.jpg",
+    "static/media/note-taker.24b2a789.png": "/portfolio/static/media/note-taker.24b2a789.png",
+    "static/media/photo-port.99187195.png": "/portfolio/static/media/photo-port.99187195.png",
+    "static/media/profile_pic.2398ee68.jpg": "/portfolio/static/media/profile_pic.2398ee68.jpg",
+    "static/media/tech-blog.79f766dd.png": "/portfolio/static/media/tech-blog.79f766dd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57f4d48f.js",
+    "static/js/2.e3f64fcd.chunk.js",
+    "static/css/main.9d5b8cdf.chunk.css",
+    "static/js/main.fccbc9ed.chunk.js"
+  ]
+}
