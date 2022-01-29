@@ -6,12 +6,34 @@ import healthTracker from "../../assets/images/Health_tracker.PNG";
 import photoport from "../../assets/images/photo-port.png";
 import notetaker from "../../assets/images/note-taker.png";
 import techblog from "../../assets/images/tech-blog.png";
+import myvalentine from "../../assets/images/myvalentine.png";
 function Portfolio() {
   return (
     <section class="portfolio">
 
       <div class="row row-cols-1 row-cols-sm-2 row-cols-md-2 row-cols-lg-3 g-4">
 
+       
+          
+        <div class="col">
+          <div class="card">
+            <img
+              src={myvalentine}
+              alt="my valentine"
+              class="card-img-top"
+            />
+            <div class="card-body">
+              <a href="https://github.com/jagydas/my-valentine" target="_blank" rel="noreferrer">
+                <button>GitHub</button>
+              </a>
+              <a href="https://my-valentine-app.herokuapp.com/" target="_blank" rel="noreferrer">
+                <button>Website</button>
+              </a>
+            </div>
+          </div>
+        </div>
+
+          
         <div class="col">
           <div class="card">
             <img
@@ -84,26 +106,7 @@ function Portfolio() {
             </div>
           </div>
         </div>
-
-        <div class="col">
-          <div class="card">
-            <img
-              src={healthTracker}
-              alt="Health Tracker"
-              class="card-img-top"
-            />
-            <div class="card-body">
-              <a href="https://github.com/warrenp11/health-tracker" target="_blank" rel="noreferrer">
-                <button>GitHub</button>
-              </a>
-              <a href="https://health-tracker-bootcamp.herokuapp.com/" target="_blank" rel="noreferrer">
-                <button>Website</button>
-              </a>
-            </div>
-          </div>
-        </div>
-
-
+        
         <div class="col">
           <div class="card">
             <img
@@ -123,6 +126,7 @@ function Portfolio() {
         </div>
 
       </div>
+    
     </section>
 
 
